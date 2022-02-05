@@ -1,3 +1,6 @@
 [provider]
 cluster = "localnet"
 wallet = "/Users/asriyan/.config/solana/id.json"
+
+[scripts]
+test = "node tests/buildspace1.js"
